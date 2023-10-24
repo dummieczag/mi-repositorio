@@ -1,0 +1,12 @@
+gestion_logistica
+=================
+
+models
+------
+
+admin
+-----
+
+views
+-----
+.. autofunction:: gestion_logistica.views.imprimir

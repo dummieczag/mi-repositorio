@@ -1,0 +1,12 @@
+gestion_marcado
+===============
+
+models
+------
+
+admin
+-----
+
+views
+-----
+.. autofunction:: gestion_marcado.views.etiquetas_pt
