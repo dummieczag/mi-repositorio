@@ -1,0 +1,15 @@
+gestion_apis
+============
+
+models
+------
+.. autoclass:: gestion_apis.models.ClaseFicticia
+
+admin
+-----
+.. autoclass:: gestion_apis.admin.HistoricoR2DocuoAdmin
+
+views
+-----
+.. autofunction:: gestion_apis.views.no_hacer_nada
+.. autofunction:: gestion_apis.views.buscar_r2d
